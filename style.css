@@ -8,9 +8,8 @@
   --radius:16px;
 }
 
-html,body{
-  height:100%;
-    font-family: 'Kanit', sans-serif !important;
+html, body {
+  font-family: 'Kanit', sans-serif !important;
 }
 
 .header {
@@ -170,4 +169,3 @@ form .form-control {
   font-weight: 600;
   text-decoration: underline;
 }
-
